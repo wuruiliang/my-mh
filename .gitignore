@@ -5,4 +5,7 @@
 /**/*/.classpath
 /**/*/.idea
 /target
+/.idea
+/target
 *.json
+*.iml

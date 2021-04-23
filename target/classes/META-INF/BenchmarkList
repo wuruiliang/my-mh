@@ -1,2 +1,0 @@
-JMH S 24 com.deepoove.MyBenchmark S 63 com.deepoove.generated.MyBenchmark_testStringBuilderAdd_jmhTest S 20 testStringBuilderAdd S 10 Throughput I 1 4 A 1 1 1 E I 1 1 E E I 1 2 T 3 6 s E I 1 2 E E E E E M 1 6 length 4 2 10 2 50 3 100 4 1000 E E E 
-JMH S 24 com.deepoove.MyBenchmark S 56 com.deepoove.generated.MyBenchmark_testStringAdd_jmhTest S 13 testStringAdd S 10 Throughput I 1 4 A 1 1 1 E I 1 1 E E I 1 2 T 3 6 s E I 1 2 E E E E E M 1 6 length 4 2 10 2 50 3 100 4 1000 E E E 
